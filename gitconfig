@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = max.cano1999@gmail.com
+	name = Max Cano
